@@ -6,6 +6,7 @@
 /NAME:"UnrealEditor-CarootShooter.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< Updated upstream
 "C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooter.init.gen.cpp.obj"
 "C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooterCharacter.gen.cpp.obj"
@@ -21,3 +22,20 @@
 "C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\TP_WeaponComponent.cpp.obj"
 "C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\Default.rc2.res"
 /OUT:"C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\UnrealEditor-CarootShooter.lib"
+=======
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooter.init.gen.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooterCharacter.gen.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooterGameMode.gen.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooterProjectile.gen.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\TP_PickUpComponent.gen.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\TP_WeaponComponent.gen.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooter.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooterCharacter.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooterGameMode.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooterProjectile.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\TP_PickUpComponent.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\TP_WeaponComponent.cpp.obj"
+"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\Default.rc2.res"
+/OUT:"C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\UnrealEditor-CarootShooter.lib"
+>>>>>>> Stashed changes
