@@ -297,15 +297,45 @@ void EmptyLinkFunctionForGeneratedCodeCarootShooterCharacter() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ACarootShooterCharacter);
 	ACarootShooterCharacter::~ACarootShooterCharacter() {}
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	struct Z_CompiledInDeferFile_FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics
+=======
+	struct Z_CompiledInDeferFile_FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics
+>>>>>>> Stashed changes
+=======
+	struct Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics
+>>>>>>> Stashed changes
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_ACarootShooterCharacter, ACarootShooterCharacter::StaticClass, TEXT("ACarootShooterCharacter"), &Z_Registration_Info_UClass_ACarootShooterCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACarootShooterCharacter), 4028734700U) },
 	};
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_1605165293(TEXT("/Script/CarootShooter"),
 		Z_CompiledInDeferFile_FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics::ClassInfo),
+=======
+	struct Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics
+	{
+		static const FClassRegisterCompiledInInfo ClassInfo[];
+	};
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_ACarootShooterCharacter, ACarootShooterCharacter::StaticClass, TEXT("ACarootShooterCharacter"), &Z_Registration_Info_UClass_ACarootShooterCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACarootShooterCharacter), 4028734700U) },
+	};
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_1605165293(TEXT("/Script/CarootShooter"),
+		Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics::ClassInfo),
+>>>>>>> Stashed changes
+=======
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_1605165293(TEXT("/Script/CarootShooter"),
+		Z_CompiledInDeferFile_FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics::ClassInfo),
+>>>>>>> Stashed changes
+=======
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_1605165293(TEXT("/Script/CarootShooter"),
+		Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_Statics::ClassInfo),
+>>>>>>> Stashed changes
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,8 +1,26 @@
 {
 	"SourceFiles": [
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"C:\\Programming_2\\GitHub\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooter\\CarootShooter.Build.cs",
 		"C:\\Programming_2\\GitHub\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooter.Target.cs",
 		"C:\\Programming_2\\GitHub\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooterEditor.Target.cs"
+=======
+		"C:\\Sebs Unreal Projects\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooter\\CarootShooter.Build.cs",
+		"C:\\Sebs Unreal Projects\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooter.Target.cs",
+		"C:\\Sebs Unreal Projects\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooterEditor.Target.cs"
+>>>>>>> Stashed changes
+=======
+		"C:\\Unreal\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooter\\CarootShooter.Build.cs",
+		"C:\\Unreal\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooter.Target.cs",
+		"C:\\Unreal\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooterEditor.Target.cs"
+>>>>>>> Stashed changes
+=======
+		"C:\\Sebs Unreal Projects\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooter\\CarootShooter.Build.cs",
+		"C:\\Sebs Unreal Projects\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooter.Target.cs",
+		"C:\\Sebs Unreal Projects\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooterEditor.Target.cs"
+>>>>>>> Stashed changes
 	],
 	"EngineVersion": "5.1.0"
 }
