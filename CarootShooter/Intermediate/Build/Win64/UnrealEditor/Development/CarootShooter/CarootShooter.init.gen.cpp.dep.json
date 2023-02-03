@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\unreal\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\carootshooter\\uht\\carootshooter.init.gen.cpp",
+        "Source": "c:\\programming_2\\github\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\carootshooter\\uht\\carootshooter.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\unreal\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\carootshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\programming_2\\github\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\carootshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\unreal\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\development\\carootshooter\\definitions.carootshooter.h"
+            "c:\\programming_2\\github\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\development\\carootshooter\\definitions.carootshooter.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
