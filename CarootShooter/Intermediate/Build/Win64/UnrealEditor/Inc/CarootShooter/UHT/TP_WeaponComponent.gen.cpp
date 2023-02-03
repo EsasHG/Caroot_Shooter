@@ -316,16 +316,21 @@ void EmptyLinkFunctionForGeneratedCodeTP_WeaponComponent() {}
 	UTP_WeaponComponent::~UTP_WeaponComponent() {}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	struct Z_CompiledInDeferFile_FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_Statics
 =======
 	struct Z_CompiledInDeferFile_FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_Statics
 >>>>>>> Stashed changes
+=======
+	struct Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_Statics
+>>>>>>> Stashed changes
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_UTP_WeaponComponent, UTP_WeaponComponent::StaticClass, TEXT("UTP_WeaponComponent"), &Z_Registration_Info_UClass_UTP_WeaponComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UTP_WeaponComponent), 4097055100U) },
 	};
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_4264244862(TEXT("/Script/CarootShooter"),
 		Z_CompiledInDeferFile_FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_Statics::ClassInfo),
@@ -343,6 +348,10 @@ void EmptyLinkFunctionForGeneratedCodeTP_WeaponComponent() {}
 =======
 	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_4264244862(TEXT("/Script/CarootShooter"),
 		Z_CompiledInDeferFile_FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_Statics::ClassInfo),
+>>>>>>> Stashed changes
+=======
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_4264244862(TEXT("/Script/CarootShooter"),
+		Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_TP_WeaponComponent_h_Statics::ClassInfo),
 >>>>>>> Stashed changes
 		nullptr, 0,
 		nullptr, 0);

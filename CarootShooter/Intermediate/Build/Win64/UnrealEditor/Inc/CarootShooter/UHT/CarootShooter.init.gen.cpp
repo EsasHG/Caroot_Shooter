@@ -23,7 +23,11 @@ void EmptyLinkFunctionForGeneratedCodeCarootShooter_init() {}
 				PKG_CompiledIn | 0x00000000,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				0x22033FD4,
+=======
+				0x48EB8EED,
+>>>>>>> Stashed changes
 =======
 				0x48EB8EED,
 >>>>>>> Stashed changes
@@ -40,11 +44,15 @@ void EmptyLinkFunctionForGeneratedCodeCarootShooter_init() {}
 	}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CarootShooter(Z_Construct_UPackage__Script_CarootShooter, TEXT("/Script/CarootShooter"), Z_Registration_Info_UPackage__Script_CarootShooter, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x22033FD4, 0x1A72068A));
 =======
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CarootShooter(Z_Construct_UPackage__Script_CarootShooter, TEXT("/Script/CarootShooter"), Z_Registration_Info_UPackage__Script_CarootShooter, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x48EB8EED, 0x1A72068A));
 >>>>>>> Stashed changes
 =======
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CarootShooter(Z_Construct_UPackage__Script_CarootShooter, TEXT("/Script/CarootShooter"), Z_Registration_Info_UPackage__Script_CarootShooter, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xAE83FD37, 0x05A637BD));
+>>>>>>> Stashed changes
+=======
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CarootShooter(Z_Construct_UPackage__Script_CarootShooter, TEXT("/Script/CarootShooter"), Z_Registration_Info_UPackage__Script_CarootShooter, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x48EB8EED, 0x1A72068A));
 >>>>>>> Stashed changes
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

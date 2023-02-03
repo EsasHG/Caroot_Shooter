@@ -3,6 +3,7 @@
 /l 0x409
 /I "."
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
 <<<<<<< Updated upstream
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
@@ -10,17 +11,22 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
 =======
+=======
+>>>>>>> Stashed changes
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 /DIS_PROGRAM=0
 /DUE_EDITOR=1
@@ -86,11 +92,15 @@
 /DPROJECT_PRODUCT_IDENTIFIER=CarootShooter
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /fo "C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\Default.rc2.res"
 =======
 /fo "C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\Default.rc2.res"
 >>>>>>> Stashed changes
 =======
 /fo "C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\Default.rc2.res"
+>>>>>>> Stashed changes
+=======
+/fo "C:\Sebs Unreal Projects\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\Default.rc2.res"
 >>>>>>> Stashed changes
 "..\Build\Windows\Resources\Default.rc2"

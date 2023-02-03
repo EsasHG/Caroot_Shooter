@@ -3,13 +3,18 @@
     "Data": {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Source": "c:\\programming_2\\github\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\carootshooter\\uht\\carootshooter.init.gen.cpp",
 =======
         "Source": "c:\\unreal\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\carootshooter\\uht\\carootshooter.init.gen.cpp",
 >>>>>>> Stashed changes
+=======
+        "Source": "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\carootshooter\\uht\\carootshooter.init.gen.cpp",
+>>>>>>> Stashed changes
         "ProvidedModule": "",
-        "PCH": "c:\\unreal\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\carootshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\carootshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
             "c:\\programming_2\\github\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\development\\carootshooter\\definitions.carootshooter.h"
 =======
@@ -21,6 +26,9 @@
 >>>>>>> Stashed changes
 =======
             "c:\\unreal\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\development\\carootshooter\\definitions.carootshooter.h"
+>>>>>>> Stashed changes
+=======
+            "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\development\\carootshooter\\definitions.carootshooter.h"
 >>>>>>> Stashed changes
         ],
         "ImportedModules": [],

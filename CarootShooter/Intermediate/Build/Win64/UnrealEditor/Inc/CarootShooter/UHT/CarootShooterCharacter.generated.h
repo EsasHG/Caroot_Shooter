@@ -16,6 +16,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_SPARSE_DATA
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_RPC_WRAPPERS \
 =======
@@ -26,11 +27,16 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_SPARSE_DATA
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_RPC_WRAPPERS \
 >>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_SPARSE_DATA
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_RPC_WRAPPERS \
+>>>>>>> Stashed changes
  \
 	DECLARE_FUNCTION(execGetHasRifle); \
 	DECLARE_FUNCTION(execSetHasRifle);
 
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
@@ -40,11 +46,15 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 =======
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
 >>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
+>>>>>>> Stashed changes
  \
 	DECLARE_FUNCTION(execGetHasRifle); \
 	DECLARE_FUNCTION(execSetHasRifle);
 
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_ACCESSORS
@@ -57,6 +67,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_ACCESSORS
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_INCLASS_NO_PURE_DECLS \
 >>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_ACCESSORS
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_INCLASS_NO_PURE_DECLS \
+>>>>>>> Stashed changes
 private: \
 	static void StaticRegisterNativesACarootShooterCharacter(); \
 	friend struct Z_Construct_UClass_ACarootShooterCharacter_Statics; \
@@ -65,6 +79,7 @@ public: \
 	DECLARE_SERIALIZER(ACarootShooterCharacter)
 
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_INCLASS \
@@ -74,6 +89,9 @@ public: \
 =======
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_INCLASS \
 >>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_INCLASS \
+>>>>>>> Stashed changes
 private: \
 	static void StaticRegisterNativesACarootShooterCharacter(); \
 	friend struct Z_Construct_UClass_ACarootShooterCharacter_Statics; \
@@ -84,12 +102,16 @@ public: \
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_STANDARD_CONSTRUCTORS \
 =======
 #define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_STANDARD_CONSTRUCTORS \
 >>>>>>> Stashed changes
 =======
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_STANDARD_CONSTRUCTORS \
+>>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_STANDARD_CONSTRUCTORS \
 >>>>>>> Stashed changes
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ACarootShooterCharacter(const FObjectInitializer& ObjectInitializer); \
@@ -106,12 +128,16 @@ public: \
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_ENHANCED_CONSTRUCTORS \
 =======
 #define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_ENHANCED_CONSTRUCTORS \
 >>>>>>> Stashed changes
 =======
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_ENHANCED_CONSTRUCTORS \
+>>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_ENHANCED_CONSTRUCTORS \
 >>>>>>> Stashed changes
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
@@ -124,6 +150,7 @@ public: \
 	NO_API virtual ~ACarootShooterCharacter();
 
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_17_PROLOG
@@ -157,10 +184,22 @@ public: \
 	FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_INCLASS \
 	FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_STANDARD_CONSTRUCTORS \
 >>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_17_PROLOG
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_SPARSE_DATA \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_RPC_WRAPPERS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_ACCESSORS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_INCLASS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_STANDARD_CONSTRUCTORS \
+>>>>>>> Stashed changes
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_GENERATED_BODY \
@@ -191,6 +230,16 @@ public: \
 	FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_INCLASS_NO_PURE_DECLS \
 	FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_ENHANCED_CONSTRUCTORS \
 >>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_SPARSE_DATA \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_ACCESSORS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_INCLASS_NO_PURE_DECLS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h_20_ENHANCED_CONSTRUCTORS \
+>>>>>>> Stashed changes
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -200,12 +249,16 @@ template<> CAROOTSHOOTER_API UClass* StaticClass<class ACarootShooterCharacter>(
 #undef CURRENT_FILE_ID
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #define CURRENT_FILE_ID FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h
 =======
 #define CURRENT_FILE_ID FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h
 >>>>>>> Stashed changes
 =======
 #define CURRENT_FILE_ID FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h
+>>>>>>> Stashed changes
+=======
+#define CURRENT_FILE_ID FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterCharacter_h
 >>>>>>> Stashed changes
 
 

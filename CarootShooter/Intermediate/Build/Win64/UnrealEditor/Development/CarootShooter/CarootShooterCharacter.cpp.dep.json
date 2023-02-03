@@ -3,13 +3,18 @@
     "Data": {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Source": "c:\\programming_2\\github\\caroot_shooter\\carootshooter\\source\\carootshooter\\carootshootercharacter.cpp",
 =======
         "Source": "c:\\unreal\\caroot_shooter\\carootshooter\\source\\carootshooter\\carootshootercharacter.cpp",
 >>>>>>> Stashed changes
+=======
+        "Source": "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\source\\carootshooter\\carootshootercharacter.cpp",
+>>>>>>> Stashed changes
         "ProvidedModule": "",
-        "PCH": "c:\\unreal\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\carootshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\carootshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
             "c:\\programming_2\\github\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\development\\carootshooter\\definitions.carootshooter.h",
             "c:\\programming_2\\github\\caroot_shooter\\carootshooter\\source\\carootshooter\\carootshootercharacter.h",
@@ -18,6 +23,10 @@
         "ProvidedModule": "",
         "PCH": "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\carootshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
+            "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\development\\carootshooter\\definitions.carootshooter.h",
+            "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\source\\carootshooter\\carootshootercharacter.h",
+>>>>>>> Stashed changes
+=======
             "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\development\\carootshooter\\definitions.carootshooter.h",
             "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\source\\carootshooter\\carootshootercharacter.h",
 >>>>>>> Stashed changes
@@ -30,9 +39,15 @@
             "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "c:\\programming_2\\github\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\carootshooter\\uht\\carootshootercharacter.generated.h",
             "c:\\programming_2\\github\\caroot_shooter\\carootshooter\\source\\carootshooter\\carootshooterprojectile.h",
             "c:\\programming_2\\github\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\carootshooter\\uht\\carootshooterprojectile.generated.h",
+=======
+            "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\carootshooter\\uht\\carootshootercharacter.generated.h",
+            "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\source\\carootshooter\\carootshooterprojectile.h",
+            "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\carootshooter\\uht\\carootshooterprojectile.generated.h",
+>>>>>>> Stashed changes
 =======
             "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\carootshooter\\uht\\carootshootercharacter.generated.h",
             "c:\\sebs unreal projects\\caroot_shooter\\carootshooter\\source\\carootshooter\\carootshooterprojectile.h",
@@ -62,6 +77,7 @@
             "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedplayerinput.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsysteminterface.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsystems.generated.h"
+<<<<<<< Updated upstream
 =======
             "c:\\unreal\\caroot_shooter\\carootshooter\\intermediate\\build\\win64\\unrealeditor\\development\\carootshooter\\definitions.carootshooter.h",
             "c:\\unreal\\caroot_shooter\\carootshooter\\source\\carootshooter\\carootshootercharacter.h",
@@ -100,6 +116,8 @@
             "c:\\program files\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedplayerinput.generated.h",
             "c:\\program files\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsysteminterface.generated.h",
             "c:\\program files\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsystems.generated.h"
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         ],
         "ImportedModules": [],

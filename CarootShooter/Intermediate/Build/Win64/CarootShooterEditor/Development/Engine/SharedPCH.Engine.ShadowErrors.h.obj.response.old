@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp
+=======
+C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp
+>>>>>>> Stashed changes
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I Runtime
@@ -279,6 +283,7 @@ C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\Ca
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
+<<<<<<< Updated upstream
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
@@ -287,6 +292,16 @@ C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\Ca
 /Fp"C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 /Fo"C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 /sourceDependencies C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.dep.json
+=======
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/Yc"C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+/sourceDependencies C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.dep.json
+>>>>>>> Stashed changes
 /Zc:inline
 /nologo
 /Oi

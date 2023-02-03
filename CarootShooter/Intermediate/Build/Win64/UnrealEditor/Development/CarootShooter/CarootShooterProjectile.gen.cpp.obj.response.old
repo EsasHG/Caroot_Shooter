@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
 C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Inc\CarootShooter\UHT\CarootShooterProjectile.gen.cpp
 /I .
 /I C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Inc\CarootShooter\UHT
 /I C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Source
+=======
+C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Inc\CarootShooter\UHT\CarootShooterProjectile.gen.cpp
+/I .
+/I C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Inc\CarootShooter\UHT
+/I C:\Unreal\Caroot_Shooter\CarootShooter\Source
+>>>>>>> Stashed changes
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -283,6 +290,7 @@ C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\Un
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
+<<<<<<< Updated upstream
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
@@ -293,6 +301,18 @@ C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\Un
 /Fp"C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 /Fo"C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooterProjectile.gen.cpp.obj"
 /sourceDependencies C:\Programming_2\GitHub\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooterProjectile.gen.cpp.dep.json
+=======
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\Definitions.CarootShooter.h"
+/Yu"C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\CarootShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooterProjectile.gen.cpp.obj"
+/sourceDependencies C:\Unreal\Caroot_Shooter\CarootShooter\Intermediate\Build\Win64\UnrealEditor\Development\CarootShooter\CarootShooterProjectile.gen.cpp.dep.json
+>>>>>>> Stashed changes
 /Zc:inline
 /nologo
 /Oi

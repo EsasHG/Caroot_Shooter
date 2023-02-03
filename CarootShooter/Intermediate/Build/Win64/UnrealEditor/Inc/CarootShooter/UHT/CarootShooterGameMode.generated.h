@@ -16,17 +16,21 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_SPARSE_DATA
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_RPC_WRAPPERS
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_ACCESSORS
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_INCLASS_NO_PURE_DECLS \
 =======
+=======
+>>>>>>> Stashed changes
 #define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_SPARSE_DATA
 #define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_RPC_WRAPPERS
 #define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS
 #define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_ACCESSORS
 #define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_INCLASS_NO_PURE_DECLS \
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_SPARSE_DATA
@@ -34,6 +38,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_ACCESSORS
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_INCLASS_NO_PURE_DECLS \
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 private: \
 	static void StaticRegisterNativesACarootShooterGameMode(); \
@@ -43,6 +49,7 @@ public: \
 	DECLARE_SERIALIZER(ACarootShooterGameMode)
 
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_INCLASS \
@@ -52,6 +59,9 @@ public: \
 =======
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_INCLASS \
 >>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_INCLASS \
+>>>>>>> Stashed changes
 private: \
 	static void StaticRegisterNativesACarootShooterGameMode(); \
 	friend struct Z_Construct_UClass_ACarootShooterGameMode_Statics; \
@@ -62,12 +72,16 @@ public: \
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_STANDARD_CONSTRUCTORS \
 =======
 #define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_STANDARD_CONSTRUCTORS \
 >>>>>>> Stashed changes
 =======
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_STANDARD_CONSTRUCTORS \
+>>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_STANDARD_CONSTRUCTORS \
 >>>>>>> Stashed changes
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	CAROOTSHOOTER_API ACarootShooterGameMode(const FObjectInitializer& ObjectInitializer); \
@@ -84,12 +98,16 @@ public: \
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_ENHANCED_CONSTRUCTORS \
 =======
 #define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_ENHANCED_CONSTRUCTORS \
 >>>>>>> Stashed changes
 =======
 #define FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_ENHANCED_CONSTRUCTORS \
+>>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_ENHANCED_CONSTRUCTORS \
 >>>>>>> Stashed changes
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
@@ -102,6 +120,7 @@ public: \
 	CAROOTSHOOTER_API virtual ~ACarootShooterGameMode();
 
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_9_PROLOG
@@ -135,10 +154,22 @@ public: \
 	FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_INCLASS \
 	FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_STANDARD_CONSTRUCTORS \
 >>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_9_PROLOG
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_SPARSE_DATA \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_RPC_WRAPPERS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_ACCESSORS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_INCLASS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_STANDARD_CONSTRUCTORS \
+>>>>>>> Stashed changes
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 #define FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_GENERATED_BODY \
@@ -169,6 +200,16 @@ public: \
 	FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_INCLASS_NO_PURE_DECLS \
 	FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_ENHANCED_CONSTRUCTORS \
 >>>>>>> Stashed changes
+=======
+#define FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_SPARSE_DATA \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_ACCESSORS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h_12_ENHANCED_CONSTRUCTORS \
+>>>>>>> Stashed changes
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -178,12 +219,16 @@ template<> CAROOTSHOOTER_API UClass* StaticClass<class ACarootShooterGameMode>()
 #undef CURRENT_FILE_ID
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #define CURRENT_FILE_ID FID_Programming_2_GitHub_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h
 =======
 #define CURRENT_FILE_ID FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h
 >>>>>>> Stashed changes
 =======
 #define CURRENT_FILE_ID FID_Unreal_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h
+>>>>>>> Stashed changes
+=======
+#define CURRENT_FILE_ID FID_Sebs_Unreal_Projects_Caroot_Shooter_CarootShooter_Source_CarootShooter_CarootShooterGameMode_h
 >>>>>>> Stashed changes
 
 
