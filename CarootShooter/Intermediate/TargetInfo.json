@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CarootShooter",
+			"Path": "C:\\Unreal\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CarootShooterEditor",
+			"Path": "C:\\Unreal\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooter\\CarootShooter.Build.cs",
+		"C:\\Unreal\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooter.Target.cs",
+		"C:\\Unreal\\Caroot_Shooter\\CarootShooter\\Source\\CarootShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}
