@@ -5,25 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/Programming_2/GitHub/Caroot_Shooter/CarootShooter/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
-=======
-				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/FirstPerson/Maps/SebsMap.umap",
-				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Textuer.uasset",
-				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/T_Carrot.uasset",
-				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/M_carrot.uasset",
-				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/M_Green.uasset",
-				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/M_Orange.uasset",
-				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/As_Carrot.uasset",
+				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Msh_Carrot.uasset",
 				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Texture/T_Carrot.uasset",
-				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Material/M_carrot.uasset",
-				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Material/M_Green.uasset",
-				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Material/Carrot/M_carrot.uasset",
 				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Material/Carrot/M_Green.uasset",
->>>>>>> Stashed changes
-				"C:/Unreal/Caroot_Shooter/CarootShooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Material/Carrot/M_carrot.uasset",
+				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Material/Orange.uasset",
+				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Material/Green.uasset",
+				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Texture/download.uasset",
+				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Material/Carrot/Green.uasset",
+				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Material/Carrot/Orange.uasset",
+				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/SebsModels/Carrot2.uasset",
+				"C:/Sebs Unreal Projects/Caroot_Shooter/CarootShooter/Content/FirstPerson/Maps/SebsMap.umap"
 			]
 		}
 	]
