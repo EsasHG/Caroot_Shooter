@@ -15,7 +15,7 @@
 ACarootShooterCharacter::ACarootShooterCharacter()
 {
 	// Character doesnt have a rifle at start
-	bHasRifle = false;
+	bHasRifle = true;
 	
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(55.f, 96.0f);
