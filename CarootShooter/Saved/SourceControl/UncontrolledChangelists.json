@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Spiltek 2023/2PRO201/Other/Caroot_Shooter/CarootShooter/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Spiltek 2023/2PRO201/Other/Caroot_Shooter/CarootShooter/Content/Carrot_Actor_Level.umap",
+				"C:/Spiltek 2023/2PRO201/Other/Caroot_Shooter/CarootShooter/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Spiltek 2023/2PRO201/Other/Caroot_Shooter/CarootShooter/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Spiltek 2023/2PRO201/Other/Caroot_Shooter/CarootShooter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Spiltek 2023/2PRO201/Other/Caroot_Shooter/CarootShooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Spiltek 2023/2PRO201/Other/Caroot_Shooter/CarootShooter/Content/StarterContent/Props/MaterialSphere.uasset",
+				"C:/Spiltek 2023/2PRO201/Other/Caroot_Shooter/CarootShooter/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Spiltek 2023/2PRO201/Other/Caroot_Shooter/CarootShooter/Content/MyCarrot_Actor.uasset",
+				"C:/Spiltek 2023/2PRO201/Other/Caroot_Shooter/CarootShooter/Content/MyCarrot_Actor.uasset",
+				"C:/Spiltek 2023/2PRO201/Other/Caroot_Shooter/CarootShooter/Content/MyCarrot_Actor_BP.uasset",
+				"C:/Unreal/Caroot_Shooter/CarootShooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
