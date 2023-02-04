@@ -20,7 +20,7 @@ class ACarootShooterCharacter : public ACharacter
 	GENERATED_BODY()
 public:
 	/** Pawn mesh: 1st person view (arms; seen only by self) */
-	UPROPERTY(BlueprintReadWrite, Category=Mesh)
+	UPROPERTY(EditAnywhere,BlueprintReadWrite, Category=Mesh)
 	USkeletalMeshComponent* Mesh1P;
 private:
 	/** First person camera */
