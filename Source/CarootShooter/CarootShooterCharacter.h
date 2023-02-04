@@ -20,7 +20,7 @@ class ACarootShooterCharacter : public ACharacter
 	GENERATED_BODY()
 public:
 	/** Pawn mesh: 1st person view (arms; seen only by self) */
-	UPROPERTY(BlueprintReadWrite, Category=Mesh)
+	UPROPERTY(EditAnywhere,BlueprintReadWrite, Category=Mesh)
 	USkeletalMeshComponent* Mesh1P;
 private:
 	/** First person camera */
@@ -64,6 +64,8 @@ public:
 	UFUNCTION(BlueprintCallable, Category = Weapon)
 	bool GetHasRifle();
 
+	virtual float TakeDamage(float DamageAmount,struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser) override;
+
 protected:
 	/** Called for movement input */
 	void Move(const FInputActionValue& Value);
@@ -71,11 +73,16 @@ protected:
 	/** Called for looking input */
 	void Look(const FInputActionValue& Value);
 
+	void Die();
 protected:
 	// APawn interface
 	virtual void SetupPlayerInputComponent(UInputComponent* InputComponent) override;
 	// End of APawn interface
+	UPROPERTY(BlueprintReadWrite)
+	int Health = 3;
 
+	UPROPERTY(BlueprintReadWrite)
+	int Ammo = 10;
 public:
 	/** Returns Mesh1P subobject **/
 	USkeletalMeshComponent* GetMesh1P() const { return Mesh1P; }
