@@ -108,3 +108,17 @@ bool ACarootShooterCharacter::GetHasRifle()
 {
 	return bHasRifle;
 }
+
+float ACarootShooterCharacter::TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser)
+{
+	Super::TakeDamage(DamageAmount, DamageEvent, EventInstigator, DamageCauser);
+	Health -= DamageAmount;
+	if (Health <= 0)
+		Die();
+	return DamageAmount;
+}
+
+void ACarootShooterCharacter::Die()
+{
+	UE_LOG(LogTemp, Warning, TEXT("You are dead!"));
+}
