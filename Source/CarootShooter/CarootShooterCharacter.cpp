@@ -113,5 +113,12 @@ float ACarootShooterCharacter::TakeDamage(float DamageAmount, struct FDamageEven
 {
 	Super::TakeDamage(DamageAmount, DamageEvent, EventInstigator, DamageCauser);
 	Health -= DamageAmount;
+	if (Health <= 0)
+		Die();
 	return DamageAmount;
+}
+
+void ACarootShooterCharacter::Die()
+{
+	UE_LOG(LogTemp, Warning, TEXT("You are dead!"));
 }
