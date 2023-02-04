@@ -78,12 +78,15 @@ protected:
 	// APawn interface
 	virtual void SetupPlayerInputComponent(UInputComponent* InputComponent) override;
 	// End of APawn interface
+
+public:
+
 	UPROPERTY(BlueprintReadWrite)
 	int Health = 3;
 
 	UPROPERTY(BlueprintReadWrite)
 	int Ammo = 10;
-public:
+
 	/** Returns Mesh1P subobject **/
 	USkeletalMeshComponent* GetMesh1P() const { return Mesh1P; }
 	/** Returns FirstPersonCameraComponent subobject **/
