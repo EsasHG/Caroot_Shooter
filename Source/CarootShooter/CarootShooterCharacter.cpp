@@ -108,3 +108,10 @@ bool ACarootShooterCharacter::GetHasRifle()
 {
 	return bHasRifle;
 }
+
+float ACarootShooterCharacter::TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser)
+{
+	Super::TakeDamage(DamageAmount, DamageEvent, EventInstigator, DamageCauser);
+	Health -= DamageAmount;
+	return DamageAmount;
+}
