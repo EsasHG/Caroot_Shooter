@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "Pickup_actor.h"
 #include "Carrot_actor.generated.h"
 
 UCLASS()
@@ -24,10 +25,10 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Carrot_mesh")
-		TArray <AActor*> Carrot;
+		TArray <APickup_actor*> Carrot;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Carrot_mesh")
-		TSubclassOf<AActor> ActorTwoSpawn;
+		TSubclassOf<APickup_actor> ActorTwoSpawn;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Carrot_mesh")
 		int Amount;
@@ -44,10 +45,11 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Carrot_mesh")
 		float DespawnTime;
 
-private:
+	UFUNCTION()
 	void SpawCarrort();
 
-	void DespawnCarrot();
+	UFUNCTION()
+	void DespawnCarrot(APickup_actor* Carrot_delete);
 
 
 

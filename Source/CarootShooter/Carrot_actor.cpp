@@ -2,6 +2,9 @@
 
 
 #include "Carrot_actor.h"
+#include "CarootShooterCharacter.h"
+#include "Kismet/GameplayStatics.h"
+
 
 
 // Sets default values
@@ -12,9 +15,7 @@ ACarrot_actor::ACarrot_actor()
 
 	Amount = 25;
 	DespawnCounter = 0.f;
-	DespawnTime = 10.f;
-
-
+	DespawnTime = 5.f;
 
 }
 
@@ -23,20 +24,9 @@ void ACarrot_actor::BeginPlay()
 {
 	Super::BeginPlay();
 
-	Carrot.Init(NULL, Amount);
-
 	for (int i = 0; i < Amount; i++)
 	{
-
-		RandomNumberX = rand() % 1500 + 500;
-
-		RandomNumberY = rand() % 1500 + 500;
-		/*	Carrot[i] = CreateDefaultSubobject<UStaticMeshComponent>(FName(TEXT("Carrot Mesh") + FString::FromInt(i)));
-			Carrot[i]->SetRelativeLocation(FVector(GetActorLocation().X + RandomNumber, GetActorLocation().Y + RandomNumber, 0));*/
-
-			/*AActor* NewLocati = GetWorld()->SpawnActor(ActorTwoSpawn);*/
-		Carrot[i] = GetWorld()->SpawnActor(ActorTwoSpawn);
-		Carrot[i]->SetActorLocation(FVector(GetActorLocation().X + RandomNumberX, GetActorLocation().Y + RandomNumberY, 0));
+		SpawCarrort();
 	}
 
 	
@@ -49,31 +39,38 @@ void ACarrot_actor::Tick(float DeltaTime)
 
 	DespawnCounter += DeltaTime;
 
+	//Creating a variable to a pointer to a class we need to communicate with. We use a UE5 class to get the player character information; the map and what character.
+	ACarootShooterCharacter* Player = Cast<ACarootShooterCharacter>(UGameplayStatics::GetPlayerCharacter(GetWorld(),0));
+
 	if(DespawnCounter > DespawnTime)
 	{
+		
 		SpawCarrort();
-		DespawnCarrot();
+
+		DespawnCounter = 0;
 	}
 
 }
 
 void ACarrot_actor::SpawCarrort()
 {
-	if(DespawnCounter > DespawnTime || Amount <= 0)
-	{
-		Amount++;
+	RandomNumberX = rand() % 1500 - 750;
+	RandomNumberY = rand() % 1500 - 750;
 
-	}
+	//Creating an index to get the exact index of the actor we want. To get that index we need to add a new actor, but from a specified class that is the object we are working with/on. After the cominuccation i s done, we spawn a new actor based on the existing actor class with the values returned.
+	int index = Carrot.Add(Cast<APickup_actor>(GetWorld()->SpawnActor(ActorTwoSpawn)));
+	Carrot[index]->SetActorLocation(FVector(GetActorLocation().X + RandomNumberX, GetActorLocation().Y + RandomNumberY, 0));
+
+	//This<-Makes the programm understand that we refer to the "instance" we drag out to the world "the actor in this case".
+	Carrot[index]->Spawner = this;
 
 }
 
-void ACarrot_actor::DespawnCarrot()
+void ACarrot_actor::DespawnCarrot(APickup_actor* Carrot_delete)
 {
-	if(DespawnCounter > DespawnTime)
-	{
-		Amount--;
-		this->Destroy();
-	}
+	//Remove function; removed the carrot from the array
+	Carrot.Remove(Carrot_delete);
+	Carrot_delete->Destroy();
 
 }
 
